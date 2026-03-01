@@ -17,5 +17,5 @@ işlemlerini gerçekleştiren bir Python uygulamasıdır.
 ✔ Modern arayüz (CustomTkinter)  
 ✔ JSON tabanlı frekans eşlemesi  
 
-## Dosya Yapısı
+
 
